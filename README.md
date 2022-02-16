@@ -3,6 +3,8 @@ Duplicate Tab
 
 Chrome extension to duplicate the current tab.
 
+Official store page https://chrome.google.com/webstore/detail/duplicate-tab/ljhkjdibhiomfkbpkbfcffpgbpkggnif/related
+
 ## Usage
 
 * Click the "Duplicate tab" icon from the Google Chrome toolbar.
